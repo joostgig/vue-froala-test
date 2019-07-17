@@ -1,10 +1,8 @@
 
 <template>
   <div id="app">
-    <div class="sample">
-      <my-editor value="This is the first value" />
-      <my-editor value="This is the second value <a href='#'>click me</a>" />
-    </div>
+    <my-editor value="This is the first value" />
+    <my-editor value="This is the second value <a href='#'>click me</a>" />
   </div>
 </template>
 
