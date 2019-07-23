@@ -3,7 +3,7 @@
 
 import "froala-editor/css/froala_editor.pkgd.min.css";
 import "froala-editor/css/froala_style.min.css";
-import "froala-editor/js/plugins.pkgd.min.js";
+import "froala-editor/js/plugins/char_counter.min.js";
 
 import App from "./examples/App";
 import Vue from "vue";
