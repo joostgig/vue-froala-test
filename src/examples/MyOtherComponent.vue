@@ -16,7 +16,7 @@ export default {
   methods: {
     show() {
       console.log("show called");
-      this.show = true;
+      this.visible = true;
     }
   }
 };
